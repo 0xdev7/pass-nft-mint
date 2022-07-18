@@ -1,0 +1,18 @@
+export default {
+  staking: {
+    1: '0x3C01c6c58E61Ae5fFc0e603abd7ebe5d9d27D97a',
+    4: '0x3C01c6c58E61Ae5fFc0e603abd7ebe5d9d27D97a',
+  },
+  ape: {
+    1: '0x464cD8Bcd14bA03Bc504c0B13C796768d55AaB5e',
+    4: '0x464cD8Bcd14bA03Bc504c0B13C796768d55AaB5e',
+  },
+  variable: {
+    1: '0xAD93D504631feCA691d0a6EFed72f8344Ee72925',
+    4: '0xAD93D504631feCA691d0a6EFed72f8344Ee72925',
+  },
+  standard: {
+    1: '0xe559525118f9Ae71e2b21806B15332D17A00EBfF',
+    4: '0xe559525118f9Ae71e2b21806B15332D17A00EBfF',
+  },
+}
